@@ -12,7 +12,8 @@
     "prisma:migrate:deploy": "prisma migrate deploy",
     "prisma:push": "prisma db push",
     "prisma:seed": "tsx prisma/seed.ts",
-    "prisma:studio": "prisma studio"
+    "prisma:studio": "prisma studio",
+    "test:routes": "tsx test-routes-jwt.ts"
   },
   "prisma": {
     "seed": "tsx prisma/seed.ts"

@@ -67,10 +67,6 @@ Mi orden de trabajo fue aproximadamente:
 8. Construir el dashboard.
 9. Agregar búsqueda con debounce.
 
-Decidí no comenzar con cosas como filtros avanzados, diseño demasiado elaborado o funcionalidades adicionales porque podían quitar tiempo de los requisitos principales.
-
----
-
 ## 4. Prompts representativos
 
 No incluyo todos los mensajes utilizados con IA, sino algunos de los prompts que tuvieron mayor impacto sobre el desarrollo.
@@ -93,9 +89,7 @@ La IA propuso la estructura inicial del repositorio, configuración del frontend
 ### Qué hice con el resultado
 
 Revisé la estructura propuesta antes de continuar.
-Hice distinte pruebas de routas, y de entorno para verificar que cumpliera con todo los asignado.
-
----
+Hice distinte pruebas de rutas, y de entorno para verificar que cumpliera con todo los asignado.
 
 ### Prompt 2 — [Completar durante el desarrollo]
 
@@ -109,13 +103,9 @@ Organizo y ejectuto la migracion en prisma y genere el seed con los datos requer
 
 ## 5. Un caso donde no acepté directamente lo generado por la IA
 
-En terminos de diseño se la ia genero template muy repetitivo y diseños poco limpios.
+En terminos de diseño la ia genero template muy repetitivo y diseños poco limpios.
 
 Regenere el diseño del app basado en los colores del banco y un visual mucho mas limpia.
-
-**Este apartado se actualizará con un caso real del desarrollo antes de entregar la prueba.**
-
----
 
 ## 6. Qué partes hizo la IA y qué partes hice yo
 
@@ -152,6 +142,7 @@ generacion de documentos Readme y entructura de documentos de texto.
 
 Una de las cosas que mejor hizo la IA fue acelerar la creación de la estructura inicial del proyecto.
 En una prueba con tiempo limitado, generar rápidamente configuraciones repetitivas como TypeScript, Express, Docker o componentes base me permitió concentrar más tiempo en probar que los flujos principales realmente funcionaran.
+Tambien al generar genero la estructura de seguridad basica como bcryptjs pas contraseña, algo que no indique al generarlo pero lo mantuve ya que es una buena practica.
 
 ## 8. Algo que la IA hizo mal o que tuve que vigilar
 
