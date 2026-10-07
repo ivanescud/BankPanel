@@ -160,13 +160,3 @@ al generar el proyecto no establece la configuracion de las migraciones para la 
 ## 9. Decisiones conscientes de alcance
 
 Por el límite de tiempo decidí priorizar funcionalidad sobre cantidad de características.
-
-## 10. Reflexión final
-
-El uso de IA me permitió avanzar más rápido, principalmente en tareas de configuración y generación de código base.
-
-Sin embargo, intenté mantener las decisiones técnicas bajo mi control.
-
-Para mí, la parte más importante de trabajar con IA en este proyecto no fue solamente pedirle código, sino darle un alcance claro, revisar sus propuestas y detenerla cuando intentaba agregar más complejidad de la necesaria.
-
-El objetivo final fue utilizar la IA como una herramienta para acelerar el desarrollo, pero mantener la responsabilidad sobre las decisiones y sobre el código entregado.
