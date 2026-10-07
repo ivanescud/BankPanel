@@ -12,8 +12,8 @@ Solo necesitas tener instalado **Docker** y **Docker Compose**:
 
 1. Clona el repositorio y entra en la carpeta:
    ```bash
-   git clone https://github.com/ivanescudero/BankPanel.git
-   cd BankPanel
+   git clone https://github.com/ivanescudero/BankPanel.git "devpanel-[Ivan Escudero]"
+   cd "devpanel-[Ivan Escudero]"
    ```
 
 2. Copia el archivo de variables de entorno:
